@@ -186,7 +186,3 @@ to launch the application.
 # 📜 License
 
 📚 This project is developed for **academic and educational purposes**. Feel free to use, modify, and enhance it for learning and personal projects.
-
----
-
-## ⭐ If you found this project helpful, don't forget to **star ⭐ the repository** and support the project! 😊
